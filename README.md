@@ -1,9 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
-### Hi there 👋
 
-
-### 💪 Skills
-##### Platforms & Languages
+#### 💪 Skills
+###### Platforms & Languages
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoungjin&show_icons=true&theme=transparent&count_private=true)
 
