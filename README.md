@@ -1,10 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 
-#### 🤞 Nice way to meet me
+### 🤞 Nice way to meet me
 
 
-#### 💪 Skills
-###### Platforms & Languages
+### 💪 Skills
+##### Platforms & Languages
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Gradle](https://img.shields.io/badge/Gradle-02303A.svg?style=for-the-badge&logo=Gradle&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
