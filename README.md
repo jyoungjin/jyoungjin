@@ -1,8 +1,8 @@
-![header](https://capsule-render.vercel.app/api?type=Wave&color=auto&height=300&section=header&text=Youngjin&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 ### Hi there 👋
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoungjin&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoungjin&show_icons=true&theme=transparent&count_private=true)
 
 
 <!--
