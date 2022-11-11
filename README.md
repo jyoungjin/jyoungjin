@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 
+#### 🤞 Nice way to meet me
+
+
 #### 💪 Skills
 ###### Platforms & Languages
 
