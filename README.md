@@ -19,6 +19,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
 ![jyoungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoungjin&show_icons=true&theme=transparent&count_private=true)
+[![jyoungjin's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jyoungjin&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/jyoungjin)
 
 
 <!--
