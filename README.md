@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 
 ### 🤞 Nice way to meet me
+<a href="[[1. 연결하고싶은 사이트 url]](https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a
+)" target="_blank"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=[Notion]&logoColor=white"/></a>
 
 
 ### 💪 Skills
