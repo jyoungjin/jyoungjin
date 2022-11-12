@@ -2,6 +2,7 @@
 
 ### 🤞 Nice way to meet me
 ##### GMAIL: ccd3545@gmail.com
+##### Notion: https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a
 
 
 ### 💪 Skills
