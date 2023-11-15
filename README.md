@@ -26,7 +26,6 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![jyoungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoungjin&show_icons=true&theme=transparent&count_private=true)
-<br>
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ccd1202)](https://solved.ac/ccd1202/)
 
 <!--
