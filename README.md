@@ -1,8 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 
 ### 🤞 Nice way to meet me
-##### GMAIL: ccd3545@gmail.com
-##### Notion: https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a
+##### Mail : ccd3545@gmail.com
+##### Notion : https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a
 
 
 ### 💪 Skills
@@ -26,7 +26,7 @@
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
 ![jyoungjin's GitHub stats](https://github-readme-stats.vercel.app/api?username=jyoungjin&show_icons=true&theme=transparent&count_private=true)
-
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ccd1202)](https://solved.ac/ccd1202/)
 
 <!--
 **jyoungjin/jyoungjin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
