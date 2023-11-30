@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 
 ### 🤞 Nice way to meet me
-##### Mail : ccd3545@gmail.com
+##### Mail : ccd1202@naver.com
 ##### Notion : https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a
 
 
