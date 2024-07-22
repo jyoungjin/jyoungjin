@@ -9,7 +9,7 @@
   </tr>
   <tr>
     <td>📝 Notion</td>
-    <td><a href="https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"></a></td>
+    <td><a href="https://youngjjin.notion.site/1292dfb2a848414599724493e1c1b5a4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"></a></td>
   </tr>
 </table>
 
