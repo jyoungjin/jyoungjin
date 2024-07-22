@@ -1,8 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=Rect&color=gradient&height=100&section=header&text=Youngjin&fontSize=60)
 
 ### 🤞 Nice way to meet me
-##### 📧 Mail: [![Mail Badge](https://img.shields.io/badge/ccd1202@naver.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ccd1202@naver.com)
-##### 📝 Notion: [![Notion Badge](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a)
+
+<table>
+  <tr>
+    <td>📧 Mail:</td>
+    <td><a href="mailto:ccd1202@naver.com"><img src="https://img.shields.io/badge/ccd1202@naver.com-D14836?style=flat&logo=gmail&logoColor=white"></a></td>
+  </tr>
+  <tr>
+    <td>📝 Notion:</td>
+    <td><a href="https://youngjjin.notion.site/153df3530f4d48f5bdc01bf0e7807f9a"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"></a></td>
+  </tr>
+</table>
 
 ### 💪 Skills
 ##### Platforms & Languages
