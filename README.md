@@ -7,10 +7,6 @@
     <td>📧 Mail</td>
     <td><a href="mailto:ccd1202@naver.com"><img src="https://img.shields.io/badge/ccd1202@naver.com-D14836?style=flat&logo=gmail&logoColor=white"></a></td>
   </tr>
-  <tr>
-    <td>📝 Notion</td>
-    <td><a href="https://youngjjin.notion.site/1292dfb2a848414599724493e1c1b5a4"><img src="https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white"></a></td>
-  </tr>
 </table>
 
 ### 💪 Skills
